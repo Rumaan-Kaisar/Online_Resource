@@ -16,3 +16,5 @@ organize this text into proper paragraph, clear and correct form, avoiding first
 
 a clear, pointwise simplification with mid-ground details while preserving full context:
 
+simplify with clarification (not too short, not too long, maintaining mid ground and pointwise if needed):
+
