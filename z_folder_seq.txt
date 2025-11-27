@@ -1,0 +1,25 @@
+
+1. first create a file (main docx) containing:
+		1. Title
+		2. Objective
+		3. All Headings of the sections
+
+2. Create .txt for PPT text (no images), use the headings from the first docx
+
+3. Copy the PPT text to the first Docx; 
+		Highlight the topics
+		Do not use Bullet point, use it during Edit
+
+4. Make a copy of the main-Docx: to collect all images
+
+5. Make another copy of the main-Docx: raw edits.
+
+6. Collect some (1 or 2) srt-text to main-Docx (no images). Re-arrange the srt-text
+		Re-arrange using vs-code in ppt.text
+
+7. Copy the re-arranged srt-text to RAW -> start editing
+
+8. 	i. review spelling & markup + video (raw)
+	ii. combine to ppt & re-arrange (raw)
+	iii. Attach image in main doc (main)
+
