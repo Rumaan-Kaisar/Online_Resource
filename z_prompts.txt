@@ -18,3 +18,6 @@ a clear, pointwise simplification with mid-ground details while preserving full 
 
 simplify with clarification (not too short, not too long, maintaining mid ground and pointwise if needed):
 
+organaize pointwise manner and use proper heighlight (bold/italic & highlight), also keep the words as is:
+
+
