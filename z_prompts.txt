@@ -35,6 +35,6 @@ Note: Dont mixing partial and ordinary derivatives togather, use correct form as
 Also use proper mathematical notation, like bold (i.e. vector, matrix), since i'm from mathematics background, do not using bold is little confusing for me, and we consider it wrong and un-healthy, and looks wierard too not using.
 Fully rigorous, unambiguous formulation  which enttitiy belongs to which dim. etc.
 
-m8_2_DL Basics_v2
+name this chat "m8_2_DL Basics_v3"
 ----------------
 
