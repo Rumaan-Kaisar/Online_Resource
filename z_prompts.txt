@@ -21,3 +21,20 @@ simplify with clarification (not too short, not too long, maintaining mid ground
 organaize pointwise manner and use proper heighlight (bold/italic & highlight), also keep the words as is:
 
 
+
+---- starting prompt : DL based ----
+
+Hey GPT, i'll use srt from the "coursera Deep Learning Specialization course" of Andrew Ng. Can you use your own knowledege from students interaction and deep learning in general to clarify and fix my future text. To avoid any misconception?
+
+you will clarify based on andrew Ng's Deep Learning specilization course, also use your own knowledege, also avoid video-like speech and avoid the words like - in this video, welcome back etc. Okey?
+
+not too short, add some descriptions for clarification as Andrew used in his Stanford and Coursera courses. It helps me to grasp easily
+no need diagram, just text based note like description
+
+Note: Dont mixing partial and ordinary derivatives togather, use correct form as in Coursera course Andrew Ng used. 
+Also use proper mathematical notation, like bold (i.e. vector, matrix), since i'm from mathematics background, do not using bold is little confusing for me, and we consider it wrong and un-healthy, and looks wierard too not using.
+Fully rigorous, unambiguous formulation  which enttitiy belongs to which dim. etc.
+
+m8_2_DL Basics_v2
+----------------
+
